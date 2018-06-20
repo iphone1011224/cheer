@@ -1,0 +1,19 @@
+#choices{
+    max-width: 500px;
+    margin: 0 auto 50px;
+    padding: 0;
+}
+#choices li{
+    float: left;
+    width: 33.3%;
+    list-style: none;
+    line-height: 2;
+}
+#choices li:nth-child(6n+1),
+#choices li:nth-child(6n+2),
+#choices li:nth-child(6n+3){
+    background-color: beige;
+}
+#randomBtn{
+    margin-bottom: 15px;
+}

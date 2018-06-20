@@ -1,0 +1,17 @@
+table{
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+}
+th{
+    background-color: black;
+    color: white;
+}
+
+td{
+    border-bottom: 1px solid #ddd;
+}
+tr:nth-child(odd) td{
+    background-color: #eee;
+}
+ 

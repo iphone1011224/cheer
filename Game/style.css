@@ -1,0 +1,17 @@
+canvas{
+    border: 2px solid black;
+    background-image: url(images/grasses68.gif);
+    transform: scale(.5);
+    transform-origin: 50% 0;
+    margin: 0 auto -300px;
+}
+#talkBox:not(:empty){
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    box-shadow: 0 0 5px rgba(0,0,0,.7);
+    font-size: 20px;
+    font-weight: bold;
+}

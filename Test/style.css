@@ -1,0 +1,21 @@
+h1{
+    margin-bottom: 30px;
+}
+h2{
+    margin-bottom: 20px;
+    color: gray;
+}
+.questionBox {
+    max-width: 500px;
+    margin: auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+}
+#options input[type="radio"]{
+    margin-right: 10px;
+}
+#options input[type="radio"] +label{
+    width: 250px;
+    text-align: left;
+    cursor: pointer;
+}
