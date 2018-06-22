@@ -1,3 +1,0 @@
-"# cheer" 
-"# cheer" 
-"# cheer" 
